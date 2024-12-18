@@ -1,0 +1,3 @@
+[submodule "tests/lib/rule-tester/1"]
+	path = tests/lib/rule-tester/1
+	url = https://Bobby2thumbs@github.com/Bobby2thumbs/new1
